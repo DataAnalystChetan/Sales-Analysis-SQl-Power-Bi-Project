@@ -33,6 +33,10 @@ An interactive Power BI dashboard can be found here [here](https://github.com/Da
 ## Data Structure Overview
 
 The Crust & Cravings sales dataset 2015 consists of  12 columns and 48620 records.
+<br><be>
+
+![Screenshot](https://github.com/DataAnalystChetan/Sales-Analysis-SQl-Power-Bi-Project/blob/main/Data%20structure%20Image.png)
+
 
 ## Executive Summary
 After opening in 2013 business gradually increased. as the key performance indicators have shown total sales and revenue are more compared to the first year of business.
